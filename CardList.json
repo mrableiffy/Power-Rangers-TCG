@@ -1,0 +1,442 @@
+{
+  "A001": {
+    "id": "A001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Morphin Power",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/IjxWPeF.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Morphin Power",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Red"
+    ],
+    "Health": ""
+  },
+  "A006": {
+    "id": "A006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/sXpgoFE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Morphin Power",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Neutral"
+    ]
+  },
+  "A002": {
+    "id": "A002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yellow Morphin Power",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yellow Morphin Power",
+    "type": "Power Card",
+    "cost": 0,
+    "Health": "",
+    "Color": [
+      "Yellow"
+    ]
+  },
+  "A003": {
+    "id": "A003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Green Morphin Power",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Green Morphin Power",
+    "type": "Power Card",
+    "cost": 0,
+    "Health": "",
+    "Color": [
+      "Green"
+    ]
+  },
+  "A004": {
+    "id": "A004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blue Morphin Power",
+    "type": "Power Card",
+    "cost": 0,
+    "Health": "",
+    "Color": [
+      "Blue"
+    ]
+  },
+  "A005": {
+    "id": "A005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pink Morphin Power",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pink Morphin Power",
+    "type": "Power Card",
+    "cost": 0,
+    "Health": 0,
+    "Color": [
+      "Pink"
+    ]
+  },
+  "A018": {
+    "id": "A018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ninja Storm Red",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/1diftW0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ninja Storm Red",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Red"
+    ],
+    "Health": "4"
+  },
+  "A028": {
+    "id": "A078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Self Destruct",
+        "type": "Action Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/5UsESmq.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Self Destruct",
+    "type": "Action Card",
+    "cost": "2",
+    "Color": [
+      "Red"
+    ],
+    "Health": ""
+  },
+  "A029": {
+    "id": "A079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shift Into Turbo Red",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/EzhfNly.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shift Into Turbo Red",
+    "type": "Reaction Card",
+    "cost": "2",
+    "Color": [
+      "Red"
+    ],
+    "Health": ""
+  },
+  "A007": {
+    "id": "A007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Double Neutral",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/Bjgoe6G.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Double Neutral",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Neutral"
+    ],
+    "Health": ""
+  },
+  "A010": {
+    "id": "A010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rocky's Power",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/JR214D2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rocky's Power",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Red",
+      "Blue"
+    ],
+    "Health": ""
+  },
+  "A019": {
+    "id": "A019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mighty Morphin Red",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/0Nxvwx9.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mighty Morphin Red",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Red"
+    ],
+    "Health": "4"
+  },
+  "A020": {
+    "id": "A020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dino Thunder Red",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/xEk998r.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dino Thunder Red",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Red"
+    ],
+    "Health": "5"
+  },
+  "A021": {
+    "id": "A021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Turbo Red",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/jF0Z3MZ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turbo Red",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Red"
+    ],
+    "Health": "6"
+  },
+  "A030": {
+    "id": "A030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lightning Cruiser",
+        "type": "Action Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/vCAmplV.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lightning Cruiser",
+    "type": "Action Card",
+    "cost": "2",
+    "Color": [
+      "Red"
+    ],
+    "Health": ""
+  },
+  "A031": {
+    "id": "A031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pyro Rescue 1",
+        "type": "Action Card",
+        "cost": "5",
+        "image": "https://i.imgur.com/QWiXEbG.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pyro Rescue 1",
+    "type": "Action Card",
+    "cost": "5",
+    "Color": [
+      "Red"
+    ],
+    "Health": ""
+  },
+  "A032": {
+    "id": "A032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Dragon Thunderzord",
+        "type": "Reaction Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/q95LzSg.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Dragon Thunderzord",
+    "type": "Reaction Card",
+    "cost": "2",
+    "Color": [
+      "Red"
+    ],
+    "Health": ""
+  },
+  "A033": {
+    "id": "A033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Red Jet Jammer",
+        "type": "Action Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/XXhqGfb.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Red Jet Jammer",
+    "type": "Action Card",
+    "cost": "2",
+    "Color": [
+      "Red"
+    ],
+    "Health": ""
+  },
+  "A034": {
+    "id": "A034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tyrannosaurus",
+        "type": "Action Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/3Gn6AKM.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tyrannosaurus",
+    "type": "Action Card",
+    "cost": "3",
+    "Color": [
+      "Red"
+    ],
+    "Health": ""
+  },
+  "A035": {
+    "id": "A035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wild Access Red",
+        "type": "Action Card",
+        "cost": "1",
+        "image": "https://i.imgur.com/dJtBJrb.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wild Access Red",
+    "type": "Action Card",
+    "cost": "1",
+    "Color": [
+      "Red"
+    ],
+    "Health": ""
+  },
+  "A167": {
+    "id": "A167",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morpher",
+        "type": "Action Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/IOEA6RE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morpher",
+    "type": "Action Card",
+    "cost": "2",
+    "Color": [
+      "Neutral"
+    ],
+    "Health": ""
+  },
+  "A168": {
+    "id": "A168",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "It's Morphin Time!",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/ICmSDkl.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "It's Morphin Time!",
+    "type": "Reaction Card",
+    "cost": "2",
+    "Color": [
+      "Neutral"
+    ],
+    "Health": ""
+  }
+}
