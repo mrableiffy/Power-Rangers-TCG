@@ -8,7 +8,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://github.com/mrableiffy/Power-Rangers-TCG/blob/main/CardList.json",
+    "dataUrl": "https://mrableiffy.github.io/Power-Rangers-TCG/CardList.json",
     "cardBack": "https://i.imgur.com/RgvgNHG.jpeg"
   },
   "deckBuilding": {
