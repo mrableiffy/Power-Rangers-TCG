@@ -139,7 +139,7 @@
     "Health": "4"
   },
   "A028": {
-    "id": "A078",
+    "id": "A028",
     "isToken": false,
     "face": {
       "front": {
@@ -159,7 +159,7 @@
     "Health": ""
   },
   "A029": {
-    "id": "A079",
+    "id": "A029",
     "isToken": false,
     "face": {
       "front": {
