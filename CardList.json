@@ -46,7 +46,7 @@
         "name": "Yellow Morphin Power",
         "type": "Power Card",
         "cost": 0,
-        "image": "",
+        "image": "https://i.imgur.com/qujTpNk.png",
         "isHorizontal": false
       }
     },
@@ -73,7 +73,7 @@
     "name": "Green Morphin Power",
     "type": "Power Card",
     "cost": 0,
-    "Health": "",
+    "Health": "https://i.imgur.com/gERSL8Z.png",
     "Color": [
       "Green"
     ]
@@ -83,10 +83,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
+        "name": "Blue Morphin Power",
         "type": "Power Card",
         "cost": 0,
-        "image": "",
+        "image": "https://i.imgur.com/LSx6qxG.png",
         "isHorizontal": false
       }
     },
@@ -106,7 +106,7 @@
         "name": "Pink Morphin Power",
         "type": "Power Card",
         "cost": 0,
-        "image": "",
+        "image": "https://i.imgur.com/3zCMlrD.png",
         "isHorizontal": false
       }
     },
