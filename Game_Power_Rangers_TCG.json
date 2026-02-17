@@ -23,14 +23,6 @@
         ]
       }
     ]
- 
-    "Extra-deck": {
-  "title": "Extra-deck",
-  "isHidden": "yes",
-  "height": "MEDIUM",
-  "alignment": "DECK",
-  "displayedTitle": "Fighter Deck",
-    }
   "gameplay": {
     "Classic": {
       "mulligan": {
