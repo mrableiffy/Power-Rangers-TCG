@@ -86,9 +86,7 @@
           "Fighter Deck->Fighter_Deck"
         ],
         "autoPlayFromHand": {},
-        "autoPlayFromStack": {
-          "Fighter_Deck": "Fighters"
-        },
+        "autoPlayFromStack": {},
         "sectionsDict": {
           "Fighters": {
             "title": "Fighters",
@@ -106,31 +104,15 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Power Field": {
-            "title": "Power_Field",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Power_Deck": {
-            "title": "Power Deck",
+            "title": "Power_Deck",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Power Deck",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -139,14 +121,30 @@
             "showHiddenCardInHistory": false
           },
           "Fighter_Deck": {
-            "title": "Fighter Deck",
+            "title": "Fighter_Deck",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Fighter Deck",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Power_Field": {
+            "title": "Power_Field",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Power Field",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
