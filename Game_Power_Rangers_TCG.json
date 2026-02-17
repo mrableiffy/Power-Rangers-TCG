@@ -24,6 +24,20 @@
       }
     ]
   },
+  "Power Deck": {
+  "title": "Power Deck",
+  "isHidden": "yes",
+  "height": "MEDIUM",
+  "alignment": "DECK",
+  "displayedTitle": "Power Deck",
+  }
+    "Fighter Deck": {
+  "title": "Fighter Deck",
+  "isHidden": "yes",
+  "height": "MEDIUM",
+  "alignment": "DECK",
+  "displayedTitle": "Fighter Deck",
+    }
   "gameplay": {
     "Classic": {
       "mulligan": {
