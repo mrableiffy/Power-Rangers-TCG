@@ -28,7 +28,7 @@
     "Classic": {
       "mulligan": {
         "info": "You may put 1 of your Fighters on the bottom of your Fighter Deck and place the top card into play.",
-        "startingHandSize": "3",
+        "startingHandSize": "6",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
@@ -61,23 +61,19 @@
               "style": false
             },
             {
-              "section": "Power Field",
-              "style": false
-            },
-            {
               "direction": "row",
               "style": false,
               "content": [
                 {
-                  "section": "Action Deck",
+                  "section": "Power_Field",
                   "style": false
                 },
                 {
-                  "section": "Power Deck",
+                  "section": "Power_Deck",
                   "style": false
                 },
                 {
-                  "section": "Fighter Deck",
+                  "section": "Fighter_Deck",
                   "style": false
                 }
               ],
@@ -86,8 +82,8 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Power Deck",
-          "Fighter Deck"
+          "Power Deck->Power_Deck",
+          "Fighter Deck->Fighter_Deck"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {
