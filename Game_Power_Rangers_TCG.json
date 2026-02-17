@@ -28,7 +28,7 @@
     "Classic": {
       "mulligan": {
         "info": "You may put 1 of your Fighters on the bottom of your Fighter Deck and place the top card into play.",
-        "startingHandSize": "6",
+        "startingHandSize": "3",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
