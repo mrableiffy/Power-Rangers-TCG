@@ -85,7 +85,10 @@
           "Power Deck->Power_Deck",
           "Fighter Deck->Fighter_Deck"
         ],
-        "autoPlayFromHand": {},
+        "autoPlayFromHand": {
+          "Power Card": "Hand",
+          "Fighter Card": "Fighters"
+        },
         "autoPlayFromStack": {},
         "sectionsDict": {
           "Fighters": {
