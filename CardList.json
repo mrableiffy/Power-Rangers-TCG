@@ -168,6 +168,13 @@
         "cost": "2",
         "image": "https://i.imgur.com/EzhfNly.png",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/tJvBKOJ.png",
+        "isHorizontal": false
       }
     },
     "name": "Shift Into Turbo Red",
