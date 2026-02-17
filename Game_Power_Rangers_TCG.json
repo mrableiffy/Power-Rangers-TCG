@@ -44,7 +44,7 @@
       "countersStartingValues": [
         0
       ],
-      "hideFacedDownCards": false,
+      "hideFacedDownCards": true,
       "sections": {
         "customSections": [
           "Fighters",
@@ -108,7 +108,7 @@
             "title": "Power_Deck",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
@@ -124,7 +124,7 @@
             "title": "Fighter_Deck",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
@@ -140,7 +140,7 @@
             "title": "Power_Field",
             "isHidden": "no",
             "height": "MEDIUM",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
