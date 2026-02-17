@@ -24,10 +24,10 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
+        "name": "Black Morphin Power",
         "type": "Power Card",
         "cost": 0,
-        "image": "",
+        "image": "https://i.imgur.com/sXpgoFE.png",
         "isHorizontal": false
       }
     },
@@ -46,7 +46,7 @@
         "name": "Yellow Morphin Power",
         "type": "Power Card",
         "cost": 0,
-        "image": "https://i.imgur.com/RgvgNHG.jpeg",
+        "image": "",
         "isHorizontal": false
       }
     },
