@@ -6,7 +6,7 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": 90,
+  "cardRotation": "90",
   "cards": {
     "dataUrl": "https://mrableiffy.github.io/Power-Rangers-TCG/CardList.json",
     "cardBack": "https://i.imgur.com/RgvgNHG.jpeg"
@@ -48,11 +48,13 @@
       "sections": {
         "customSections": [
           "Fighters",
-          "Power Field"
+          "Power Field",
+          "Power Deck",
+          "Fighter Deck"
         ],
         "layout": {
           "direction": "column",
-          "isSymetricalForOpponents": false,
+          "isSymetricalForOpponents": true,
           "content": [
             {
               "section": "Fighters",
@@ -84,7 +86,6 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Action Deck",
           "Power Deck",
           "Fighter Deck"
         ],
