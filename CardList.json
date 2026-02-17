@@ -66,14 +66,14 @@
         "name": "Green Morphin Power",
         "type": "Power Card",
         "cost": 0,
-        "image": "",
+        "image": "https://i.imgur.com/gERSL8Z.png",
         "isHorizontal": false
       }
     },
     "name": "Green Morphin Power",
     "type": "Power Card",
     "cost": 0,
-    "Health": "https://i.imgur.com/gERSL8Z.png",
+    "Health": "",
     "Color": [
       "Green"
     ]
