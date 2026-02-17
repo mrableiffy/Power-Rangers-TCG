@@ -23,14 +23,7 @@
         ]
       }
     ]
-  },
-  "Extra-deck": {
-  "title": "Power Deck",
-  "isHidden": "yes",
-  "height": "MEDIUM",
-  "alignment": "DECK",
-  "displayedTitle": "Power Deck",
-  }
+ 
     "Extra-deck": {
   "title": "Fighter Deck",
   "isHidden": "yes",
