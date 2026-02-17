@@ -215,7 +215,7 @@
             "title": "Fighters",
             "isHidden": "no",
             "height": "BIG",
-            "alignment": "CENTER",
+            "alignment": "NONE",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
