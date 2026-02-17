@@ -121,21 +121,12 @@
             "showHiddenCardInHistory": false
           },
           "Fighter_Deck": {
-            "title": "Fighter_Deck",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "DECK",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Fighter Deck",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
+  "title": "Fighter_Deck",
+  "isHidden": "yes",
+  "height": "MEDIUM",
+  "alignment": "DECK",
+  "displayedTitle": "Extra deck",
+},
           "Power_Field": {
             "title": "Power_Field",
             "isHidden": "no",
