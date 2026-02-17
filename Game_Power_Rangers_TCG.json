@@ -70,11 +70,11 @@
                 },
                 {
                   "section": "Power_Deck",
-                  "style": false
+                  "style": {"width":"10vh"}
                 },
                 {
                   "section": "Fighter_Deck",
-                  "style": false
+                  "style": {"width":"10vh"}
                 }
               ],
               "isSymetricalForOpponents": false
