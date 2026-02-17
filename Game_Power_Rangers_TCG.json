@@ -87,7 +87,7 @@
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {
-          "Fighter Deck": "Fighters"
+          "Fighter_Deck": "Fighters"
         },
         "sectionsDict": {
           "Fighters": {
@@ -106,10 +106,10 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Action Deck": {
-            "title": "Action Deck",
-            "isHidden": "yes",
-            "height": "SMALL",
+          "Power Field": {
+            "title": "Power_Field",
+            "isHidden": "no",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -122,7 +122,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Power Deck": {
+          "Power_Deck": {
             "title": "Power Deck",
             "isHidden": "yes",
             "height": "SMALL",
@@ -138,23 +138,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Power Field": {
-            "title": "Power Field",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Fighter Deck": {
+          "Fighter_Deck": {
             "title": "New_Section",
             "isHidden": "yes",
             "height": "SMALL",
