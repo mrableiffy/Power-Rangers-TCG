@@ -48,9 +48,9 @@
       "sections": {
         "customSections": [
           "Fighters",
-          "Power Field",
-          "Power Deck",
-          "Fighter Deck"
+          "Power_Field",
+          "Power_Deck",
+          "Fighter_Deck"
         ],
         "layout": {
           "direction": "column",
