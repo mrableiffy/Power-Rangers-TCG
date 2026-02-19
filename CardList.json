@@ -205,7 +205,7 @@
     ],
     "Health": ""
   },
-  "A010": {
+  "A009": {
     "id": "A010",
     "isToken": false,
     "face": {
@@ -336,6 +336,13 @@
         "cost": 0,
         "image": "https://i.imgur.com/q95LzSg.png",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/tJvBKOJ.png",
+        "isHorizontal": false
       }
     },
     "name": "Red Dragon Thunderzord",
@@ -406,7 +413,7 @@
     ],
     "Health": ""
   },
-  "A167": {
+  "A168": {
     "id": "A167",
     "isToken": false,
     "face": {
@@ -426,7 +433,7 @@
     ],
     "Health": ""
   },
-  "A168": {
+  "A169": {
     "id": "A168",
     "isToken": false,
     "face": {
@@ -436,6 +443,13 @@
         "cost": "2",
         "image": "https://i.imgur.com/ICmSDkl.png",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/bAznKeA.png",
+        "isHorizontal": false
       }
     },
     "name": "It's Morphin Time!",
@@ -443,6 +457,1259 @@
     "cost": "2",
     "Color": [
       "Neutral"
+    ],
+    "Health": ""
+  },
+  "A008": {
+    "id": "A008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Space Couple",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/yCZgf1G.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Space Couple",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Red",
+      "Yellow"
+    ],
+    "Health": ""
+  },
+  "A010": {
+    "id": "A010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Love Through Time",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/BdL1DyG.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Love Through Time",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Red",
+      "Pink"
+    ],
+    "Health": ""
+  },
+  "A011": {
+    "id": "A011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boyfren Girlfren",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/ZUAsoap.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boyfren Girlfren",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Yellow",
+      "Green"
+    ],
+    "Health": ""
+  },
+  "A012": {
+    "id": "A012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nerd Buddies",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/vbTIM1m.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nerd Buddies",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Yellow",
+      "Blue"
+    ],
+    "Health": ""
+  },
+  "A013": {
+    "id": "A013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "BFFs",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/vrxHMKK.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "BFFs",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Yellow",
+      "Pink"
+    ],
+    "Health": ""
+  },
+  "A014": {
+    "id": "A014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Friendly Rivalry",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/WG0P7ug.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Friendly Rivalry",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Green",
+      "Red"
+    ],
+    "Health": ""
+  },
+  "A015": {
+    "id": "A015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "First Love",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/4JVrFWD.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "First Love",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Green",
+      "Pink"
+    ],
+    "Health": ""
+  },
+  "A016": {
+    "id": "A016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Longtime Teammates",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/g8jLi3D.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Longtime Teammates",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Blue",
+      "Green"
+    ],
+    "Health": ""
+  },
+  "A017": {
+    "id": "A017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Besties",
+        "type": "Power Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/Kq8uLvd.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Besties",
+    "type": "Power Card",
+    "cost": 0,
+    "Color": [
+      "Blue",
+      "Pink"
+    ],
+    "Health": ""
+  },
+  "A048": {
+    "id": "A048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zeo Yellow",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/C3QY5vY.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zeo Yellow",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Yellow"
+    ],
+    "Health": "9"
+  },
+  "A049": {
+    "id": "A049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alien Yellow",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/g9cCrae.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alien Yellow",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Yellow"
+    ],
+    "Health": "8"
+  },
+  "A050": {
+    "id": "A050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wild Force Yellow",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/PJSkJQ0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wild Force Yellow",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Yellow"
+    ],
+    "Health": "6"
+  },
+  "A0651": {
+    "id": "A0651",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ninja Storm Yellow",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/m2JipDo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ninja Storm Yellow",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Yellow"
+    ],
+    "Health": "7"
+  },
+  "A052": {
+    "id": "A052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Let Me Catch Up",
+        "type": "Reaction Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/Ch3uuLK.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/NVax4St.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Let Me Catch Up",
+    "type": "Reaction Card",
+    "cost": "2",
+    "Color": [
+      "Yellow"
+    ],
+    "Health": ""
+  },
+  "A053": {
+    "id": "A053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Z's Specialty",
+        "type": "Reaction Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/yfRGLbI.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/1qJA87T.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Z's Specialty",
+    "type": "Reaction Card",
+    "cost": "3",
+    "Color": [
+      "Yellow"
+    ],
+    "Health": ""
+  },
+  "A054": {
+    "id": "A054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Haz Rescue 4",
+        "type": "Action Card",
+        "cost": "6",
+        "image": "https://i.imgur.com/2AcNOlC.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Haz Rescue 4",
+    "type": "Action Card",
+    "cost": "6",
+    "Color": [
+      "Yellow"
+    ],
+    "Health": ""
+  },
+  "A055": {
+    "id": "A055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saber-Tooth Tiger",
+        "type": "Action Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/u3fuAHq.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saber-Tooth Tiger",
+    "type": "Action Card",
+    "cost": "3",
+    "Color": [
+      "Yellow"
+    ],
+    "Health": ""
+  },
+  "A056": {
+    "id": "A056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shift Into Turbo Yellow",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/2OCGU0X.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/NVax4St.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shift Into Turbo Yellow",
+    "type": "Reaction Card",
+    "cost": "2",
+    "Color": [
+      "Yellow"
+    ],
+    "Health": ""
+  },
+  "A057": {
+    "id": "A057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wild Access Yellow",
+        "type": "Action Card",
+        "cost": "-1",
+        "image": "https://i.imgur.com/zYYipxe.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wild Access Yellow",
+    "type": "Action Card",
+    "cost": "1",
+    "Color": [
+      "Yellow"
+    ],
+    "Health": ""
+  },
+  "A058": {
+    "id": "A058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wolf Galactazord",
+        "type": "Action Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/ARHegxQ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wolf Galactazord",
+    "type": "Action Card",
+    "cost": "3",
+    "Color": [
+      "Yellow"
+    ],
+    "Health": ""
+  },
+  "A059": {
+    "id": "A059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yellow Jet Jammer",
+        "type": "Action Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/bhlixdT.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jet Jammer Yellow",
+    "type": "Action Card",
+    "cost": "2",
+    "Color": [
+      "Yellow"
+    ],
+    "Health": ""
+  },
+  "A078": {
+    "id": "A078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zeo Green",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/H503aBX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zeo Green",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Green"
+    ],
+    "Health": "9"
+  },
+  "A079": {
+    "id": "A079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lightspeed Rescue Green",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/Ym53GqF.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lightspeed Rescue Green",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Green"
+    ],
+    "Health": "6"
+  },
+  "A080": {
+    "id": "A080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lost Galaxy Green",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/rBQxWqE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lost Galaxy Green",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Green"
+    ],
+    "Health": "7"
+  },
+  "A081": {
+    "id": "A081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mighty Morphin Green",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/ZB05M6Y.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mighty Morphin Green",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Green"
+    ],
+    "Health": "6"
+  },
+  "A082": {
+    "id": "A082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aero Rescue 3",
+        "type": "Action Card",
+        "cost": "5",
+        "image": "https://i.imgur.com/rV8jt8X.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aero Rescue 3",
+    "type": "Action Card",
+    "cost": "5",
+    "Color": [
+      "Green"
+    ],
+    "Health": ""
+  },
+  "A083": {
+    "id": "A083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Super Samurai Attack",
+        "type": "Action Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/QcK4uP5.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Super Samurai Attack",
+    "type": "Action Card",
+    "cost": "3",
+    "Color": [
+      "Green"
+    ],
+    "Health": ""
+  },
+  "A084": {
+    "id": "A084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shift Into Turbo Green",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/GvWU3lw.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/WzsSnL5.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shift Into Turbo Green",
+    "type": "Reaction Card",
+    "cost": "2",
+    "Color": [
+      "Green"
+    ],
+    "Health": ""
+  },
+  "A085": {
+    "id": "A085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Green Jet Jammer",
+        "type": "Action Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/uqxHzF2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Green Jet Jammer",
+    "type": "Action Card",
+    "cost": "2",
+    "Color": [
+      "Green"
+    ],
+    "Health": ""
+  },
+  "A086": {
+    "id": "A086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lunar Lance Booster Mode",
+        "type": "Action Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/j3mb7hN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lunar Lance Booster Mode",
+    "type": "Action Card",
+    "cost": "3",
+    "Color": [
+      "Green"
+    ],
+    "Health": ""
+  },
+  "A087": {
+    "id": "A087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Swap",
+        "type": "Action Card",
+        "cost": "1",
+        "image": "https://i.imgur.com/L6XQDJX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Swap",
+    "type": "Action Card",
+    "cost": "1",
+    "Color": [
+      "Green"
+    ],
+    "Health": ""
+  },
+  "A088": {
+    "id": "A088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mastadon",
+        "type": "Action Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/7TBFwmZ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mastadon",
+    "type": "Action Card",
+    "cost": "3",
+    "Color": [
+      "Green"
+    ],
+    "Health": ""
+  },
+  "A089": {
+    "id": "A089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wild Access Black",
+        "type": "Action Card",
+        "cost": "1",
+        "image": "https://i.imgur.com/czG8PPI.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wild Access Black",
+    "type": "Action Card",
+    "cost": "1",
+    "Color": [
+      "Green"
+    ],
+    "Health": ""
+  },
+  "A108": {
+    "id": "A108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mighty Morphin Blue",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/h2oKjJn.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mighty Morphin Blue",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Blue"
+    ],
+    "Health": "5"
+  },
+  "A109": {
+    "id": "A109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "S.P.D. Blue",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/FOcrzSt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "S.P.D Blue",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Blue"
+    ],
+    "Health": "7"
+  },
+  "A110": {
+    "id": "A110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Turbo Blue",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/QL47TOB.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turbo Blue",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Blue"
+    ],
+    "Health": "12"
+  },
+  "A111": {
+    "id": "A111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ninja Storm Blue",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/LUoWnNN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ninja Storm Blue",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Blue"
+    ],
+    "Health": "6"
+  },
+  "A112": {
+    "id": "A112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aqua Rescue 2",
+        "type": "Action Card",
+        "cost": "5",
+        "image": "https://i.imgur.com/YRedVpt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aqua Rescue 2",
+    "type": "Action Card",
+    "cost": "5",
+    "Color": [
+      "Blue"
+    ],
+    "Health": ""
+  },
+  "A113": {
+    "id": "A113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blue Jet Jammer",
+        "type": "Action Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/ZJZi62m.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blue Jet Jammer",
+    "type": "Action Card",
+    "cost": "2",
+    "Color": [
+      "Blue"
+    ],
+    "Health": ""
+  },
+  "A114": {
+    "id": "A114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Don't Be Greedy",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/RGCmUvP.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/EeNyQi3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Don't Be Greedy",
+    "type": false,
+    "cost": "2",
+    "Color": [
+      "Blue"
+    ],
+    "Health": ""
+  },
+  "A115": {
+    "id": "A115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Redirect",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/gS8lQqM.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/EeNyQi3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Redirect",
+    "type": "Reaction Card",
+    "cost": "2",
+    "Color": [
+      "Blue"
+    ],
+    "Health": ""
+  },
+  "A116": {
+    "id": "A116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Freeze",
+        "type": "Reaction Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/lPUbRkg.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/12fanmZ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Freeze",
+    "type": "Reaction Card",
+    "cost": "3",
+    "Color": [
+      "Blue"
+    ],
+    "Health": ""
+  },
+  "A117": {
+    "id": "A117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wild Access Blue",
+        "type": "Action Card",
+        "cost": "1",
+        "image": "https://i.imgur.com/5Zi9osY.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wild Access Blue",
+    "type": "Action Card",
+    "cost": "1",
+    "Color": [
+      "Blue"
+    ],
+    "Health": ""
+  },
+  "A118": {
+    "id": "A118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Triceratops",
+        "type": "Action Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/5wZXODQ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Triceratops",
+    "type": "Action Card",
+    "cost": "3",
+    "Color": [
+      "Blue"
+    ],
+    "Health": ""
+  },
+  "A119": {
+    "id": "A119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mirror Shield",
+        "type": "Reaction Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/bWZMcAo.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/12fanmZ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mirror Shield",
+    "type": "Reaction Card",
+    "cost": "3",
+    "Color": [
+      "Blue"
+    ],
+    "Health": ""
+  },
+  "A120": {
+    "id": "A120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shift Into Turbo Blue",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/NgO2OMn.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/EeNyQi3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shift Into Turbo Blue",
+    "type": "Reaction Card",
+    "cost": "2",
+    "Color": [
+      "Blue"
+    ],
+    "Health": ""
+  },
+  "A138": {
+    "id": "A138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Time Force Pink",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/NrGVvTl.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Time Force Pink",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Pink"
+    ],
+    "Health": "5"
+  },
+  "A139": {
+    "id": "A139",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "In Space Pink",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/in9arUU.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "In Space Pink",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Pink"
+    ],
+    "Health": "7"
+  },
+  "A140": {
+    "id": "A140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "S.P.D. Pink",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/GKBRaoC.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "S.P.D. Pink",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Pink"
+    ],
+    "Health": "8"
+  },
+  "A141": {
+    "id": "A141",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lightspeed Rescue Pink",
+        "type": "Fighter Card",
+        "cost": 0,
+        "image": "https://i.imgur.com/eEh1CQU.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lightspeed Rescue Pink",
+    "type": "Fighter Card",
+    "cost": 0,
+    "Color": [
+      "Pink"
+    ],
+    "Health": "6"
+  },
+  "A142": {
+    "id": "A142",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Med Rescue 5",
+        "type": "Action Card",
+        "cost": "5",
+        "image": "https://i.imgur.com/M9WAlIW.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Med Rescue 5",
+    "type": "Action Card",
+    "cost": "5",
+    "Color": [
+      "Pink"
+    ],
+    "Health": ""
+  },
+  "A143": {
+    "id": "A143",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rescue Morpher",
+        "type": "Reaction Card",
+        "cost": "1",
+        "image": "https://i.imgur.com/zSHHvAN.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": "1",
+        "image": "https://i.imgur.com/oI9lB7K.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rescue Morpher",
+    "type": "Reaction Card",
+    "cost": "1",
+    "Color": [
+      "Pink"
+    ],
+    "Health": ""
+  },
+  "A144": {
+    "id": "A144",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quick Heal",
+        "type": "Action Card",
+        "cost": "1",
+        "image": "https://i.imgur.com/LmVAM4l.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quick Heal",
+    "type": "Action Card",
+    "cost": "1",
+    "Color": [
+      "Pink"
+    ],
+    "Health": ""
+  },
+  "A145": {
+    "id": "A145",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wildcat Galactabeast",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/iJfwwY2.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/Pa43gyw.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wildcat Galactabeast",
+    "type": "Reaction Card",
+    "cost": "2",
+    "Color": [
+      "Pink"
+    ],
+    "Health": ""
+  },
+  "A146": {
+    "id": "A146",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shift Into Turbo Pink",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/V9p5sI5.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Reaction Back",
+        "type": "Reaction Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/Pa43gyw.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shift Into Turbo Pink",
+    "type": "Reaction Card",
+    "cost": "2",
+    "Color": [
+      "Pink"
+    ],
+    "Health": ""
+  },
+  "A147": {
+    "id": "A147",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wild Access White",
+        "type": "Action Card",
+        "cost": "1",
+        "image": "https://i.imgur.com/WSHCOa4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wild Access White",
+    "type": "Action Card",
+    "cost": "1",
+    "Color": [
+      "Pink"
+    ],
+    "Health": ""
+  },
+  "A148": {
+    "id": "A148",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pterodactyl",
+        "type": "Action Card",
+        "cost": "3",
+        "image": "https://i.imgur.com/a7wvVX7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pterodactyl",
+    "type": "Action Card",
+    "cost": "3",
+    "Color": [
+      "Pink"
+    ],
+    "Health": ""
+  },
+  "A149": {
+    "id": "A149",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pink Jet Jammer",
+        "type": "Action Card",
+        "cost": "2",
+        "image": "https://i.imgur.com/9nqmKmn.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pink Jet Jammer",
+    "type": "Action Card",
+    "cost": "2",
+    "Color": [
+      "Pink"
     ],
     "Health": ""
   }
