@@ -32,7 +32,7 @@
     "beforeGameStart": {
       "initialBoardSetup": 
       {
-            "drawFromTop": "Fighter Deck",
+            "drawFromTop": "Fighter_Deck",
             "count": 2,
             "destination": "Fighters" 
       }
