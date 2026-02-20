@@ -3,16 +3,13 @@
   "menuBackgroundImage": "https://i.imgur.com/fGr3VuV.jpeg",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": "https://mrableiffy.github.io/Power-Rangers-TCG/StarterDecks"
+    "decksUrl": "https://mrableiffy.github.io/Power-Rangers-TCG/StarterDecks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://mrableiffy.github.io/Power-Rangers-TCG/CardList.json",
     "cardBack": "https://i.imgur.com/RgvgNHG.jpeg"
-    "extraCardBacks": {
-        "Fighter Card": "https://i.imgur.com/gYggI3v.jpeg"
-    },
   },
   "deckBuilding": {
     "mainFilters": [],
@@ -73,11 +70,15 @@
                 },
                 {
                   "section": "Power_Deck",
-                  "style": {"width":"10vh"}
+                  "style": {
+                    "width": "10vh"
+                  }
                 },
                 {
                   "section": "Fighter_Deck",
-                  "style": {"width":"10vh"}
+                  "style": {
+                    "width": "10vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
