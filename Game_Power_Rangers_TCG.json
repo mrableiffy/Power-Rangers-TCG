@@ -9,7 +9,10 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://mrableiffy.github.io/Power-Rangers-TCG/CardList.json",
-    "cardBack": "https://i.imgur.com/RgvgNHG.jpeg"
+    "cardBack": "https://i.imgur.com/RgvgNHG.jpeg",
+    "extraCardBacks": {
+      "Fighter Card": "https://i.imgur.com/gYggI3v.jpeg"
+    }
   },
   "deckBuilding": {
     "mainFilters": [],
