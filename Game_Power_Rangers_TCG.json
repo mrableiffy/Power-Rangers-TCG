@@ -29,7 +29,14 @@
   },
   "gameplay": {
     "Classic": {
-      "mulligan": {
+    "beforeGameStart": {
+      "initialBoardSetup": 
+      {
+            "drawFromTop": "Fighter Deck",
+            "count": 2,
+            "destination": "Fighters" }
+    },
+        "mulligan": {
         "info": "You may put 1 of your Fighters on the bottom of your Fighter Deck and place the top card into play.",
         "startingHandSize": "3",
         "drawNewHand": false,
