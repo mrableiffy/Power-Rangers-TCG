@@ -39,12 +39,12 @@
       "beforeGameStart": {
   "initialBoardSetup": [
       {
-        "drawFromTop": "Power Deck",
+        "drawFromTop": "Power_Deck",
         "count": 3,
         "destination": "Hand"
       },
       {
-        "drawFromTop": "Fighter Deck",
+        "drawFromTop": "Fighter_Deck",
         "count": 2,
         "destination": "Fighters"
       }
