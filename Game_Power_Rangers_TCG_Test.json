@@ -151,7 +151,7 @@
             "showHiddenCardInHistory": false
           },
           "Stack": {
-            "isDefaultSection": true,
+            "isDefaultSection": false,
             "title": "Stack",
             "isHidden": "no",
             "height": "HUGE",
