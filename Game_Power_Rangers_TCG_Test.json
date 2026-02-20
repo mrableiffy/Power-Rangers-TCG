@@ -36,6 +36,20 @@
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
+      "beforeGameStart": {
+  "initialBoardSetup": [
+      {
+        "drawFromTop": "Power Deck",
+        "count": 3,
+        "destination": "Hand"
+      },
+      {
+        "drawFromTop": "Fighter Deck",
+        "count": 2,
+        "destination": "Fighters"
+      }
+    ]
+      },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
@@ -151,7 +165,7 @@
             "showHiddenCardInHistory": false
           },
           "Stack": {
-            "isDefaultSection": false,
+            "isDefaultSection": true,
             "title": "Stack",
             "isHidden": "no",
             "height": "HUGE",
