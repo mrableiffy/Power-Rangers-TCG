@@ -92,4 +92,361 @@
   }
 
 }
+  {
+  "title": "Pink Test",
+  "id": "8bd59f2d-3a65-4fa2-a063-0b61a710094a",
+  "game": "Power Rangers TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 72,
+  "createdAt": "2026-02-19T22:35:04.318Z",
+  "lastModifiedAt": "2026-02-19T22:36:45.885Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Fighter Deck",
+      "Power Deck",
+      "Action Card",
+      "Reaction Card"
+    ],
+    "Sideboard": [],
+    "Power Deck": [
+      {
+        "count": 27,
+        "id": "A005"
+      },
+      {
+        "count": 3,
+        "id": "A007"
+      }
+    ],
+    "Fighter Deck": [
+      {
+        "count": 3,
+        "id": "A138"
+      },
+      {
+        "count": 3,
+        "id": "A139"
+      },
+      {
+        "count": 3,
+        "id": "A140"
+      },
+      {
+        "count": 3,
+        "id": "A141"
+      }
+    ],
+    "Action Card": [
+      {
+        "count": 3,
+        "id": "A142"
+      },
+      {
+        "count": 3,
+        "id": "A144"
+      },
+      {
+        "count": 3,
+        "id": "A147"
+      },
+      {
+        "count": 3,
+        "id": "A148"
+      },
+      {
+        "count": 3,
+        "id": "A149"
+      },
+      {
+        "count": 3,
+        "id": "A168"
+      }
+    ],
+    "Reaction Card": [
+      {
+        "count": 3,
+        "id": "A143"
+      },
+      {
+        "count": 3,
+        "id": "A145"
+      },
+      {
+        "count": 3,
+        "id": "A146"
+      },
+      {
+        "count": 3,
+        "id": "A169"
+      }
+    ]
+  }
+}
+  {
+  "title": "Green Test",
+  "id": "214e6d64-0de0-4bf1-8c33-badcb4cd9e21",
+  "game": "Power Rangers TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 72,
+  "createdAt": "2026-02-19T22:28:13.315Z",
+  "lastModifiedAt": "2026-02-19T22:33:54.779Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Fighter Deck",
+      "Power Deck",
+      "Action Card",
+      "Reaction Card"
+    ],
+    "Sideboard": [],
+    "Power Deck": [
+      {
+        "count": 30,
+        "id": "A003"
+      }
+    ],
+    "Fighter Deck": [
+      {
+        "count": 3,
+        "id": "A078"
+      },
+      {
+        "count": 3,
+        "id": "A079"
+      },
+      {
+        "count": 3,
+        "id": "A080"
+      },
+      {
+        "count": 3,
+        "id": "A081"
+      }
+    ],
+    "Action Card": [
+      {
+        "count": 3,
+        "id": "A082"
+      },
+      {
+        "count": 3,
+        "id": "A083"
+      },
+      {
+        "count": 3,
+        "id": "A085"
+      },
+      {
+        "count": 3,
+        "id": "A086"
+      },
+      {
+        "count": 3,
+        "id": "A087"
+      },
+      {
+        "count": 3,
+        "id": "A088"
+      },
+      {
+        "count": 3,
+        "id": "A089"
+      },
+      {
+        "count": 3,
+        "id": "A168"
+      }
+    ],
+    "Reaction Card": [
+      {
+        "count": 3,
+        "id": "A084"
+      },
+      {
+        "count": 3,
+        "id": "A169"
+      }
+    ]
+  }
+}
+  {
+  "title": "Yellow Test",
+  "id": "1ebbad48-b5ca-4d85-a8ca-148f89413f80",
+  "game": "Power Rangers TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 72,
+  "createdAt": "2026-02-19T22:15:42.057Z",
+  "lastModifiedAt": "2026-02-19T22:46:48.297Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Fighter Deck",
+      "Power Deck",
+      "Reaction Card",
+      "Action Card"
+    ],
+    "Sideboard": [],
+    "Reaction Card": [
+      {
+        "count": 3,
+        "id": "A053"
+      },
+      {
+        "count": 3,
+        "id": "A052"
+      },
+      {
+        "count": 3,
+        "id": "A056"
+      },
+      {
+        "count": 3,
+        "id": "A169"
+      }
+    ],
+    "Fighter Deck": [
+      {
+        "count": 3,
+        "id": "A051"
+      },
+      {
+        "count": 3,
+        "id": "A048"
+      },
+      {
+        "count": 3,
+        "id": "A049"
+      },
+      {
+        "count": 3,
+        "id": "A050"
+      }
+    ],
+    "Action Card": [
+      {
+        "count": 3,
+        "id": "A054"
+      },
+      {
+        "count": 3,
+        "id": "A055"
+      },
+      {
+        "count": 3,
+        "id": "A057"
+      },
+      {
+        "count": 3,
+        "id": "A058"
+      },
+      {
+        "count": 3,
+        "id": "A059"
+      },
+      {
+        "count": 3,
+        "id": "A168"
+      }
+    ],
+    "Power Deck": [
+      {
+        "count": 27,
+        "id": "A002"
+      },
+      {
+        "count": 3,
+        "id": "A007"
+      }
+    ]
+  }
+}
+  {
+  "lastModifiedAt": "2026-02-17T02:31:38.597Z",
+  "cardCount": 69,
+  "title": "Red Test",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "Reaction Card": [
+      {
+        "count": 3,
+        "id": "A032"
+      },
+      {
+        "count": 3,
+        "id": "A029"
+      },
+      {
+        "count": 3,
+        "id": "A168"
+      }
+    ],
+    "Fighter Deck": [
+      {
+        "count": 3,
+        "id": "A018"
+      },
+      {
+        "count": 3,
+        "id": "A020"
+      },
+      {
+        "count": 3,
+        "id": "A019"
+      },
+      {
+        "count": 3,
+        "id": "A021"
+      }
+    ],
+    "Sideboard": [],
+    "Action Card": [
+      {
+        "count": 3,
+        "id": "A030"
+      },
+      {
+        "count": 3,
+        "id": "A031"
+      },
+      {
+        "count": 3,
+        "id": "A033"
+      },
+      {
+        "count": 3,
+        "id": "A034"
+      },
+      {
+        "count": 3,
+        "id": "A035"
+      },
+      {
+        "count": 3,
+        "id": "A028"
+      }
+    ],
+    "categoriesOrder": [
+      "Fighter Deck",
+      "Power Deck",
+      "Action Card",
+      "Reaction Card"
+    ],
+    "Power Deck": [
+      {
+        "count": 30,
+        "id": "A001"
+      }
+    ]
+  },
+  "id": "f6efd5d6-e7cb-45f1-8040-c8120dcf467b",
+  "game": "Power Rangers TCG",
+  "createdAt": "2026-02-16T21:42:52.038Z"
+}
 ]
+
