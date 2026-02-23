@@ -57,7 +57,7 @@
         ],
         "layout": {
           "direction": "column",
-          "isSymetricalForOpponents": true,
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "section": "Fighters",
@@ -94,6 +94,12 @@
         ],
         "autoPlayFromHand": {
           "Power Card": "Hand",
+          "Fighter Card": "Fighters"
+        },
+        "autoPlayFromStack": {
+          "Action Card": "Discard",
+          "Reaction Card": "Fighters",
+          "Power Card": "Power_Field",
           "Fighter Card": "Fighters"
         },
         "sectionsDict": {
