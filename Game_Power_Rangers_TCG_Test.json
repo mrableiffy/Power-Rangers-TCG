@@ -110,6 +110,12 @@
           "Power Card": "Hand",
           "Fighter Card": "Fighters"
         },
+        "autoPlayFromStack": {
+          "Action Card": "Discard",
+          "Reaction Card": "Fighters",
+          "Power Card": "Power_Field",
+          "Fighter Card": "Fighters"
+        },
         "sectionsDict": {
           "Hand": {
             "isDefaultSection": true,
@@ -124,6 +130,23 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
