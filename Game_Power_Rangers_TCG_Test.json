@@ -174,7 +174,7 @@
             "isGroupForbidden": true,
             "displayedTitle": "Pile",
             "opponentAlignment": false,
-            "noAutoPayTo": ture,
+            "noAutoPayTo": true,
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
