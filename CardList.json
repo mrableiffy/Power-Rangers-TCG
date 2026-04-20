@@ -763,21 +763,21 @@
       "front": {
         "name": "Z's Specialty",
         "type": "Reaction Card",
-        "cost": "1",
+        "cost": "3",
         "image": "https://i.imgur.com/HXYXR2T.png",
         "isHorizontal": false
       },
       "back": {
         "name": "Reaction Back",
         "type": "Reaction Card",
-        "cost": "1",
+        "cost": "3",
         "image": "https://i.imgur.com/1qJA87T.png",
         "isHorizontal": false
       }
     },
     "name": "Z's Specialty",
     "type": "Reaction Card",
-    "cost": "1",
+    "cost": "3",
     "Color": [
       "Yellow"
     ],
